@@ -46,7 +46,6 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'flazz/vim-colorschemes'
 Plugin 'xolox/vim-colorscheme-switcher'
 Plugin 'xolox/vim-misc'
-:colorscheme Monokai
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -64,3 +63,4 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 
 
+:colorscheme Monokai
