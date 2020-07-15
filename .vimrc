@@ -64,3 +64,7 @@ filetype plugin indent on    " required
 
 
 :colorscheme Monokai
+
+
+"Colorschemes for Terminal -- Gogh
+"Sans                      -- Monaco
