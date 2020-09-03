@@ -46,6 +46,7 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'flazz/vim-colorschemes'
 Plugin 'xolox/vim-colorscheme-switcher'
 Plugin 'xolox/vim-misc'
+<<<<<<< HEAD
 
 "YouCompleteMe
 Plugin 'Valloric/YouCompleteMe'
@@ -67,3 +68,7 @@ filetype plugin indent on    " required
 
 :colorscheme monokai
 ":colorscheme coda
+
+
+"Colorschemes for Terminal -- Gogh
+"Sans                      -- Monaco
