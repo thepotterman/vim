@@ -1,17 +1,3 @@
-syntax on
-
-set noerrorbells
-set tabstop=4 softtabstop=4
-set shiftwidth=4
-set expandtab
-set smartindent
-set nowrap
-set noswapfile
-set nobackup
-
-"Russian
-set encoding=utf-8
-
 " Vundle
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -47,9 +33,6 @@ Plugin 'flazz/vim-colorschemes'
 Plugin 'xolox/vim-colorscheme-switcher'
 Plugin 'xolox/vim-misc'
 
-"YouCompleteMe
-Plugin 'Valloric/YouCompleteMe'
-
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -65,9 +48,23 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
+syntax on
+
+set noerrorbells
+set tabstop=4 softtabstop=4
+set shiftwidth=4
+set expandtab
+set smartindent
+set nowrap
+set noswapfile
+set nobackup
+
+"Russian
+set encoding=utf-8
+
+"Colorschemes for Terminal -- Gogh
+"Sans                      -- Monaco
 :colorscheme monokai
 ":colorscheme coda
 
 
-"Colorschemes for Terminal -- Gogh
-"Sans                      -- Monaco
