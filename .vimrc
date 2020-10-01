@@ -64,7 +64,7 @@ set encoding=utf-8
 
 "Colorschemes for Terminal -- Gogh
 "Sans                      -- Monaco
-:colorscheme monokai
+:colorscheme Monokai
 ":colorscheme coda
 
 
