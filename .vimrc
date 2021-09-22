@@ -1,5 +1,6 @@
 " Vundle
 set nocompatible              " be iMproved, required
+set backspace=indent,start,eol "macOs trouble
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
