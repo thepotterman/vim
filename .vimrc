@@ -68,4 +68,7 @@ set encoding=utf-8
 :colorscheme Monokai
 ":colorscheme coda
 
+"for install Vundle:
+"git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+"Then :PluginInstall in vim
 
