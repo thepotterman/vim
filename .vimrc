@@ -1,3 +1,8 @@
+"trying add russian symbols
+set keymap=russian-jcukenwin
+set iminsert=0
+set imsearch=0
+
 " Vundle
 set nocompatible              " be iMproved, required
 set backspace=indent,start,eol "macOs trouble
